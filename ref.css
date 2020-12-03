@@ -106,7 +106,9 @@ hr {
 }
 
 /** sections **/
-
+.section{
+    padding: 2rem;
+}
 .section h3 {
     color: var(--primary-color);
     text-align: center;
